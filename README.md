@@ -1,1 +1,2 @@
 # MatchDay-Backend
+MatchDay is your go-to app for keeping up with your favorite football teams. Search for your teams, explore their match schedules, and seamlessly add fixtures to your Google Calendar. You can import an entire season’s schedule in just a few clicks or add matches individually as new dates are announced.
